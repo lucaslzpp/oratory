@@ -6,7 +6,7 @@ numpy
 ffmpeg-python
 whisper
 pydub
-opencv-python
+opencv-python-headless
 matplotlib
 blinker
 plotly
