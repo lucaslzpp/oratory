@@ -12,3 +12,5 @@ blinker
 plotly
 httpx
 fpdf
+imageio
+imageio-ffmpeg
