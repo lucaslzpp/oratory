@@ -14,5 +14,5 @@ streamlit==1.35.0
 matplotlib
 blinker
 plotly
-httpx==0.24.1
+httpx>=0.24
 protobuf>=3.20
